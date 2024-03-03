@@ -1,0 +1,91 @@
+section{
+    height: 100vh;
+    background-color: rgba(104, 101, 89, 0.747);
+    border-radius: 10px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    /* padding: 20px 10px; */
+    justify-content:space-around ;
+    /* justify-content: center; permet de centrer */
+}
+
+header{
+    background-color: brown;
+    height: 70px; 
+    width: 100%;
+}
+
+div{
+    width: 95%;
+
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav{
+    background-color: rgb(34, 121, 34);
+    width: 100;
+    margin-top: 10px;
+    border-radius: 5px;
+    height: 30px;
+}
+aside{
+    background-color: rgb(156, 102, 63);
+    width: 35%;
+    height: 100%;
+    
+}
+.divlarge{
+    width: 95%;
+}
+.margeDiv{
+    margin-top: 10px;
+
+}
+.block{
+    display: flex;
+    justify-content: space-between;
+    height: 60vh;
+}
+main{
+    background-color: cadetblue;
+    width: 60%;
+    justify-content: space-around;
+}
+article{
+    background-color: blue;
+    justify-content: center;
+    width: 90%;
+    height:60% ;
+}
+figure{
+    background-color: bisque;
+    width: 85%;
+    height: 40px;
+}
+p{
+    background-color: darkkhaki;
+    width: 85%;
+    height: 60px;
+}
+.section{
+    background-color: darkblue;
+    width: 90%;
+    border-radius: 3px;
+    height: 15%;
+}
+.contenu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+footer{
+    background-color: blueviolet;
+    width: 95%;
+    margin-top: 10px;
+    height: 10%;
+    border-radius: 5px;
+}

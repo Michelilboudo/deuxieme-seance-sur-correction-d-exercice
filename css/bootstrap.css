@@ -1,0 +1,19 @@
+.fixer{
+    position: sticky;
+    top: 0px;
+    z-index: 3;
+}
+.hauteur{
+    height: 50vh;
+    overflow: scroll;
+}
+.table{
+    position: sticky;
+    top: 0px;
+}
+.haut{
+    height: 30vh;
+}
+.carousell{
+    height: 60vh;
+}
